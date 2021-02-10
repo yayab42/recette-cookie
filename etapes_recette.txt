@@ -2,8 +2,5 @@
 2 Ensuite les oeuf et tout ce qu'il faut
 3 Pour terminer tu l'envoie au four a 210 degré !
 4 Pour terminer tu l'envoie au four a 210 degré !
-<<<<<<< HEAD
 5 Dresser le plat
-=======
-Bon appétit !
->>>>>>> 75f266dfd965bb0afb626e3cdef07a9d427a9dc7
+6 bon appétit !
